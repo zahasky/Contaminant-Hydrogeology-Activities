@@ -27,7 +27,7 @@ This first module is where we introduce the fundamental concepts of solute trans
 2. [Relative permeability functions and relationships to capillary pressure](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/Relative%20Permeability%20Curves.ipynb)
 
 ### Colloid contaminant hydrogeology module
-1. Colloid filtration theory functions
+1. [Colloid filtration theory and first order deposition coefficients](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/Colloid%20Filtration%20Theory%20and%20Deposition%20Rate%20Coefficients.ipynb)
 2. [Impact of heterogeneous microzones on bulk transport behavior](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/FloPy%20Anaerobic%20Microzones.ipynb)
 
 ### Contaminant remediation module
