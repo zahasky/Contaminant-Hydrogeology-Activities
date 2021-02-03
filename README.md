@@ -1,4 +1,4 @@
-# Contaminant-Hydrogeology-Activities
+# Contaminant Hydrogeology Activities
 Welcome to the Contaminant Hydrogeology Modeling Activities wiki page. This page provides an overview and table of contents for the different activities covered in each module of the class. These activities have been written and organized to make them a resource for people interested in learning more about quantitatively describing contaminant transport even if you are not taking the GEOSCI/GEOENG 629 at the University of Wisconsin-Madison.
 
 # Table of Contents
