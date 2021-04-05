@@ -23,8 +23,9 @@ This first module is where we introduce the fundamental concepts of solute trans
 3. [Reactive transport FloPy model](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/FloPy%201D%20Reactions.ipynb)
 
 ### Multiphase contaminant hydrogeology module
-1. [Capillary pressure functions](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/Capillary%20Pressure%20Curves.ipynb)
-2. [Relative permeability functions and relationships to capillary pressure](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/Relative%20Permeability%20Curves.ipynb)
+1. [Capillary pressure functions](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/Capillary%20Pressure%20Functions.ipynb)
+2. [Scaling capillary pressure functions to different fluid pairs](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/Capillary%20Pressure%20Curve%20Scaling%20and%20Fitting.ipynb)
+3. [Relative permeability functions and relationships to capillary pressure](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/Relative%20Permeability%20Curves.ipynb)
 
 ### Colloid contaminant hydrogeology module
 1. [Colloid filtration theory and first order deposition coefficients](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/Colloid%20Filtration%20Theory%20and%20Deposition%20Rate%20Coefficients.ipynb)
