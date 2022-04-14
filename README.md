@@ -31,6 +31,3 @@ This first module is where we introduce the fundamental concepts of solute trans
 1. [Colloid filtration theory and first order deposition coefficients](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/Colloid%20Filtration%20Theory%20and%20Deposition%20Rate%20Coefficients.ipynb)
 2. [Impact of heterogeneous microzones on bulk transport behavior](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/FloPy%20Anaerobic%20Microzones.ipynb)
 
-### Contaminant remediation module
-1. Limits of pumping in heterogeneous aquifers
-2. PFAS immobilization with sorptive barrier
