@@ -15,6 +15,7 @@ This first module is where we introduce the fundamental concepts of solute trans
 2. Conservative solute transport FloPy modeling
    * [Building the first model in FloPy](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/FloPy%20Introduction.ipynb)
    * [Building a FloPy model into a Python function](https://github.com/zahasky/Contaminant-Hydrogeology-Modeling-Activities/blob/master/FloPy%201D%20Function.ipynb)
+   * [Two-dimensional model to illustrate back diffusion (and wells!)](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/FloPy%20back%20diffusion%20demo.ipynb)
    * [Two-dimensional model to illustrate macrodispersion](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/FloPy%202D%20Macrodispersion%20Illustration.ipynb)
 
 ### Reactive transport module
