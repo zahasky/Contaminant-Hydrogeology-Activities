@@ -15,8 +15,10 @@ This first module is where we introduce the fundamental concepts of solute trans
 2. Conservative solute transport FloPy modeling
    * [Building the first model in FloPy](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/FloPy%20Introduction.ipynb)
    * [Building a FloPy model into a Python function](https://github.com/zahasky/Contaminant-Hydrogeology-Modeling-Activities/blob/master/FloPy%201D%20Function.ipynb)
-   * [Two-dimensional model to illustrate back diffusion (and wells!)](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/FloPy%20back%20diffusion%20demo.ipynb)
+   * [Introduction to wells and stress periods in FloPy](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/Wells%20and%20Stress%20Periods%20Explainer.ipynb)
+   * [Two-dimensional model to illustrate back diffusion (and using wells!)](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/FloPy%20back%20diffusion%20demo.ipynb)
    * [Two-dimensional model to illustrate macrodispersion](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/FloPy%202D%20Macrodispersion%20Illustration.ipynb)
+   * [The impact of model discretization when dealing with heterogeneous permeability fields](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/Multiscale%20heterogeneity.ipynb)
 
 ### Reactive transport module
 1. [Sorption isotherm functions and plots](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/Sorption%20Isotherms.ipynb)
