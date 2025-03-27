@@ -13,8 +13,10 @@ This first module is where we introduce the fundamental concepts of solute trans
    * [Dispersion and superposition of analytical solutions](https://github.com/zahasky/Contaminant-Hydrogeology-Modeling-Activities/blob/master/Dispersion%20Analytical%20Demo.ipynb)
    * [Introduction to moment analysis](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/Intro%20to%20Moment%20Analysis.ipynb)
 2. Conservative solute transport FloPy modeling
-   * [Building the first model in FloPy (MODFLOW-2005)](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/FloPy%20Introduction.ipynb) [MODFLOW6 version](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/MF6_notebooks/FloPy%20Introduction%20MF6.ipynb)
-   * [Building a FloPy model into a Python function (MODFLOW-2005)](https://github.com/zahasky/Contaminant-Hydrogeology-Modeling-Activities/blob/master/FloPy%201D%20Function.ipynb) [MODFLOW6 version](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/MF6_notebooks/FloPy%201D%20Function%20MF6.ipynb)
+   * [Building the first model in FloPy (MODFLOW-2005)](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/FloPy%20Introduction.ipynb)
+       * [MODFLOW6 version](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/MF6_notebooks/FloPy%20Introduction%20MF6.ipynb)
+   * [Building a FloPy model into a Python function (MODFLOW-2005)](https://github.com/zahasky/Contaminant-Hydrogeology-Modeling-Activities/blob/master/FloPy%201D%20Function.ipynb)
+       * [MODFLOW6 version](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/MF6_notebooks/FloPy%201D%20Function%20MF6.ipynb)
    * [Introduction to wells and stress periods in FloPy](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/Wells%20and%20Stress%20Periods%20Explainer.ipynb)
    * [Two-dimensional model to illustrate back diffusion (and using wells!)](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/FloPy%20back%20diffusion%20demo.ipynb)
    * [Two-dimensional model to illustrate macrodispersion](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/FloPy%202D%20Macrodispersion%20Illustration.ipynb)
@@ -26,8 +28,9 @@ This first module is where we introduce the fundamental concepts of solute trans
 ### Reactive transport module
 1. [Sorption isotherm functions and plots](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/Sorption%20Isotherms.ipynb)
 2. [Reactive transport analytical solutions](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/First%20Order%20Reactions.ipynb)
-3. [Reactive transport FloPy model (MODFLOW-2005)](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/FloPy%201D%20Reactions.ipynb) [MODFLOW6 version](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/MF6_notebooks/FloPy%201D%20Reactions%20MF6.ipynb)
-4. [Mobile-Immobile domain reactive transport FloPy model (MODFLOW6 only)](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/MF6_notebooks/FloPy%201D%20IST%20Demo%20MF6.ipynb)
+3. [Reactive transport FloPy model (MODFLOW-2005)](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/FloPy%201D%20Reactions.ipynb)
+     * [MODFLOW6 version](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/MF6_notebooks/FloPy%201D%20Reactions%20MF6.ipynb)
+5. [Mobile-Immobile domain reactive transport FloPy model (MODFLOW6 only)](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/MF6_notebooks/FloPy%201D%20IST%20Demo%20MF6.ipynb)
 
 ### Multiphase contaminant hydrogeology module
 1. [Capillary pressure functions](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/Capillary%20Pressure%20Functions.ipynb)
