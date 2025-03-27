@@ -19,6 +19,9 @@ This first module is where we introduce the fundamental concepts of solute trans
    * [Two-dimensional model to illustrate back diffusion (and using wells!)](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/FloPy%20back%20diffusion%20demo.ipynb)
    * [Two-dimensional model to illustrate macrodispersion](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/FloPy%202D%20Macrodispersion%20Illustration.ipynb)
    * [The impact of model discretization when dealing with heterogeneous permeability fields](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/Multiscale%20heterogeneity.ipynb)
+3. Field-scale modeling with FloPy and MODFLOW6
+   * [Importing GIS data and building field-scale model grids](https://gi](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/MF6_field_scale_model_examples/Grid_from_GIS_French_Island_demo.ipynb)
+   * [Building parent-child flow and transport models](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/MF6_field_scale_model_examples/Field_scale_transport_model_Upham_woods_demo.ipynb)
 
 ### Reactive transport module
 1. [Sorption isotherm functions and plots](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/Sorption%20Isotherms.ipynb)
@@ -29,6 +32,7 @@ This first module is where we introduce the fundamental concepts of solute trans
 1. [Capillary pressure functions](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/Capillary%20Pressure%20Functions.ipynb)
 2. [Scaling capillary pressure functions to different fluid pairs](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/Capillary%20Pressure%20Curve%20Scaling%20and%20Fitting.ipynb)
 3. [Relative permeability functions and relationships to capillary pressure](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/Relative%20Permeability%20Curves.ipynb)
+4. [Richards equation demo using SciPy ODE solvers](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/Richards_equation_demo.ipynb)
 
 ### Colloid contaminant hydrogeology module
 1. [Colloid filtration theory and first order deposition coefficients](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/Colloid%20Filtration%20Theory%20and%20Deposition%20Rate%20Coefficients.ipynb)
