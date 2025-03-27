@@ -20,7 +20,7 @@ This first module is where we introduce the fundamental concepts of solute trans
    * [Two-dimensional model to illustrate macrodispersion](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/FloPy%202D%20Macrodispersion%20Illustration.ipynb)
    * [The impact of model discretization when dealing with heterogeneous permeability fields](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/Multiscale%20heterogeneity.ipynb)
 3. Field-scale modeling with FloPy and MODFLOW6
-   * [Importing GIS data and building field-scale model grids](https://gi](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/MF6_field_scale_model_examples/Grid_from_GIS_French_Island_demo.ipynb)
+   * [Importing GIS data and building field-scale model grids](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/MF6_field_scale_model_examples/Grid_from_GIS_French_Island_demo.ipynb)
    * [Building parent-child flow and transport models](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/MF6_field_scale_model_examples/Field_scale_transport_model_Upham_woods_demo.ipynb)
 
 ### Reactive transport module
