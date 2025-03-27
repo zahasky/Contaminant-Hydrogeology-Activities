@@ -29,7 +29,7 @@ This first module is where we introduce the fundamental concepts of solute trans
 1. [Sorption isotherm functions and plots](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/Sorption%20Isotherms.ipynb)
 2. [Reactive transport analytical solutions](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/First%20Order%20Reactions.ipynb)
 3. [Reactive transport FloPy model (MODFLOW-2005)](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/FloPy%201D%20Reactions.ipynb)
-  * [MODFLOW6 version](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/MF6_notebooks/FloPy%201D%20Reactions%20MF6.ipynb)
+    * [MODFLOW6 version](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/MF6_notebooks/FloPy%201D%20Reactions%20MF6.ipynb)
 5. [Mobile-Immobile domain reactive transport FloPy model (MODFLOW6 only)](https://github.com/zahasky/Contaminant-Hydrogeology-Activities/blob/master/MF6_notebooks/FloPy%201D%20IST%20Demo%20MF6.ipynb)
 
 ### Multiphase contaminant hydrogeology module
