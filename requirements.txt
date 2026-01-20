@@ -1,4 +1,4 @@
-numpy >= 1.24.3
+numpy >= 1.24.4
 pandas >= 2.0.2
 geopandas >= 0.13.2
 shapely >= 2.0.1
